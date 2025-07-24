@@ -1,0 +1,18 @@
+# Dependencias de Node
+node_modules/
+
+# Archivos de configuración sensibles
+.env
+
+# Logs y archivos temporales
+logs/
+*.log
+npm-debug.log*
+
+# Salidas de compilación (si usas TypeScript o build)
+dist/
+build/
+
+# Cachés
+.cache/
+.tmp/
